@@ -246,7 +246,7 @@ ch => {
   var style = document.createElement('style');
   style.appendChild(
       document.createTextNode(
-          ".highlight-border { border: 10px solid #05f } "
+          ".highlight-border { border: 10px solid #89f } "
       )
   )
   document.head.append(style);
