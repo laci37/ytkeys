@@ -3,7 +3,7 @@
 // @namespace    https://github.com/laci37/ytkeys
 // @updateURL    https://raw.githubusercontent.com/laci37/ytkeys/master/ytkeys.js
 // @downloadURL  https://raw.githubusercontent.com/laci37/ytkeys/master/ytkeys.js
-// @version      0.0.1
+// @version      0.0.2
 // @license      AGPLv3
 // @author       jcunews, laci37
 // @description  Adds more keyboard shortcuts for YouTube. The list of all new shortcuts is added into new "More Shortcuts" section on YouTube's "Keyboard shortcuts" popup which can be accessed via "?" or SHIFT+/ key (on U.S. keyboards).
