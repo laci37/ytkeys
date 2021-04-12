@@ -1,6 +1,8 @@
 (// ==UserScript==
 // @name         ytkeys
 // @namespace    https://github.com/laci37/ytkeys
+// @updateURL    https://raw.githubusercontent.com/laci37/ytkeys/master/ytkeys.js
+// @downloadURL  https://raw.githubusercontent.com/laci37/ytkeys/master/ytkeys.js
 // @version      0.0.1
 // @license      AGPLv3
 // @author       jcunews, laci37
